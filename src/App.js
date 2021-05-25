@@ -4,7 +4,7 @@ import Navbar from "./components/Navbar";
 import { useState } from "react";
 import "./App.css";
 import Main from "./components/main/Main";
-
+import Search from "./components/search";
 import CreatePatient from "./components/patients/CreatePatient";
 import EditPatient from "./components/patients/EditPatient";
 import PatientsList from "./components/patients/PatientsList";
